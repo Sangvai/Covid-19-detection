@@ -11,7 +11,7 @@ This project uses a Random Forest Regressor to predict COVID-19 deaths based on 
 - **Accuracy Check**: Plots actual vs. predicted deaths to validate model accuracy.
 
 ## Dataset
-The dataset used is `covid_19_clean_complete.csv`, which includes:
+The dataset used is [`covid_19_clean_complete.csv`](https://www.kaggle.com/datasets/imdevskp/corona-virus-report), which includes:
 - Date
 - Confirmed cases
 - Deaths
