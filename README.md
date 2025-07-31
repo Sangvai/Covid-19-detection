@@ -1,5 +1,4 @@
 # Covid-19-detection
-# COVID-19 Death Prediction Model
 
 ## Overview
 This project uses a Random Forest Regressor to predict COVID-19 deaths based on features such as confirmed cases, recovered cases, and the number of days since the start of the pandemic. The model achieves high accuracy with an R² score of 1.00 and a Mean Absolute Error (MAE) of 24.64.
